@@ -1,5 +1,5 @@
 Feature4Feature3public
 
-class Feature5
+class Feature5FIX
 {
 }
